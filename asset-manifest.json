@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuickSell_kanban-board-app/static/css/main.7ea081e5.css",
+    "main.js": "/QuickSell_kanban-board-app/static/js/main.ebd8c3b3.js",
+    "index.html": "/QuickSell_kanban-board-app/index.html",
+    "main.7ea081e5.css.map": "/QuickSell_kanban-board-app/static/css/main.7ea081e5.css.map",
+    "main.ebd8c3b3.js.map": "/QuickSell_kanban-board-app/static/js/main.ebd8c3b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ea081e5.css",
+    "static/js/main.ebd8c3b3.js"
+  ]
+}
